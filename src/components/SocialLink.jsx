@@ -40,5 +40,3 @@ function SocialLink({ name }) {
 }
 
 export default SocialLink;
-import TodoItem from './components/Todoitem';
-import TodoItem from './components/TodoItem';
