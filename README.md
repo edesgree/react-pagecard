@@ -5,6 +5,10 @@ It is bootstraped with Vite.js.
 
 🔗 **Live preview:** [here](https://jovial-fudge-a4bda2.netlify.app/)
 
+### Screenshot
+
+![screenshot](./screenshot.png)
+
 ## Built with
 
 ### Technologies
