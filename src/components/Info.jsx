@@ -1,5 +1,6 @@
 import React from 'react';
 import Photo from '../assets/edouard.jpg';
+import IconEmail from '../assets/icon-email.svg';
 
 const name = 'Edouard Desgrée';
 function Info() {
@@ -12,7 +13,8 @@ function Info() {
         <a href="https://github.com/edesgree">my projects</a>
       </p>
       <div className="buttons">
-        <a className="button" href="mailto:edouard.desgree@gmail.com">
+        <a className="button with-icon" href="mailto:edouard.desgree@gmail.com">
+          <img src={IconEmail} alt="email" />
           Contact me
         </a>
       </div>

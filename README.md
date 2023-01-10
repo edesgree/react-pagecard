@@ -1,2 +1,3 @@
 # react-pagecard
-bio page card
+
+Little one page bio React app using Vite.js.
