@@ -41,6 +41,8 @@
 .card {
   width: 317px;
   background-color: var(--bg-dark);
+  border-radius: 10px;
+  overflow: hidden;
 }
 .section-about {
   margin-top: 40px;
@@ -53,8 +55,6 @@
   color: #888;
 }
 
-header.section-info {
-}
 header.section-info .photo {
   width: 317px;
   height: 317px;
