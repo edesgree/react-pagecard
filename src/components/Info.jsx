@@ -10,7 +10,7 @@ function Info() {
       <h1>{name}</h1>
       <span className="subtitle">Front End Developer</span>
       <p>
-        <a href="https://github.com/edesgree">my projects</a>
+        <a href="https://github.com/edesgree">My projects</a>
       </p>
       <div className="buttons">
         <a className="button with-icon" href="mailto:edouard.desgree@gmail.com">
